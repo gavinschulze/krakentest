@@ -1,5 +1,6 @@
-﻿using System;
+using System;
 //testing
+//testing2
 namespace test
 {
     public static class Program
